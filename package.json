@@ -1,8 +1,9 @@
 {
-  "name": "aform",
-  "version": "1.0.0",
+  "name": "dz-react-form",
+  "version": "1.0.3",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
   "scripts": {
     "start": "react-scripts start",
     "build-lib": "rollup -c"
@@ -11,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/anasmebarki1996/AForm.git"
   },
-  "author": "anasmebarki1996",
+  "author": "anasmebarki1996@outlook.fr",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/anasmebarki1996/AForm/issues"

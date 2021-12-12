@@ -1,1 +1,3 @@
-export * from "./formState/FormState";
+import { FormState } from "./formState/FormState";
+
+export default FormState;
